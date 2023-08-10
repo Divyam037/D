@@ -3,7 +3,7 @@ function Tours({tours, removeTour}) {
     return (
         <div className='container'>
             <div>
-                <h2 className='title'> Plan With Divyam</h2>
+                <h2 className='title'> Plan With Tushar</h2>
             </div>
             <div className='cards'>
                 {
